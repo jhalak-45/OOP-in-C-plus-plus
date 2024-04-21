@@ -5,7 +5,7 @@ int sum()
 {
     int a, b, sum;
 
-    cout << "Enter Sirst Number:" <<endl;
+    cout << "Enter first Number:" <<endl;
     cin >> a;
     cout << "Enter Second Number:" <<endl;
     cin >> b;

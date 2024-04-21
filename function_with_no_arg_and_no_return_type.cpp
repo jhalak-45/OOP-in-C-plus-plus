@@ -4,11 +4,11 @@ void sum()
 {
     int a, b, sum;
 
-    cout << "Enter Sirst Number:" << endl;
+    cout << "Enter first Number:" << endl;
     cin >> a;
     cout << "Enter Second Number:" << endl;
     cin >> b;
-    
+
     sum = a + b;
     cout << "The sum of " << a << " and " << b << " is: " << sum;
 }
