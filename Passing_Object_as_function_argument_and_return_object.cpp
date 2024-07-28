@@ -1,15 +1,16 @@
-// passing object as argument and return object in c++
-// program to add time(hours,minutes and seconds);
-
+/* 
+ Passing object as argument and return object in c++
+ Program to add time(hours,minutes and seconds);
+*/
 #include <iostream>
 using namespace std;
 
 class Time
 {
-private:
+  private:
     int hours, minutes, seconds;
 
-public:
+ public:
     void gettime();
     void display();
     Time addtime(Time t1, Time t2);
