@@ -83,5 +83,3 @@ This folder contains programs that demonstrate how to perform type conversion be
 - `sumOfnNumberUsingArray.cpp`: This program sums `n` numbers using an array and demonstrates basic array operations in C++.
 
 ---
-
-Feel free to explore the programs in each folder to get a better understanding of different C++ concepts!
